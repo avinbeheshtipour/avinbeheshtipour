@@ -1,31 +1,64 @@
-# Hi, I'm Avin 👋
+# Avin Beheshtipour
 
-I'm a Computer Science student interested in UI/UX Design, AI, full-stack development, data science, and building practical software tools.
+Computer Science (Honours) student at York University with interests in software engineering, artificial intelligence, human-computer interaction, and full-stack development.
 
-## 🔧 Technical Skills
+My experience includes developing full-stack applications, building AI-powered systems, and contributing to academic research. I enjoy solving technical problems and developing practical software solutions.
 
-- **Languages:** Python, JavaScript, TypeScript, Java, SQL
-- **Web:** React, HTML, CSS, Node.js
-- **AI/Data:** PyTorch, Pandas, NumPy, Scikit-learn
-- **Tools:** Git, GitHub, Docker, Linux , Figma
+## Technical Skills
 
-## 🚀 Featured Projects
+- **Languages:** Python, Java, JavaScript, TypeScript, SQL
+- **Web Development:** React, HTML, CSS, Node.js, REST APIs
+- **AI & Data Science:** PyTorch, Scikit-learn, Pandas, NumPy
+- **Backend & Databases:** FastAPI, PostgreSQL, SQLite, Java Servlets, JSP
+- **Tools:** Git, GitHub, Docker, Linux, Figma, Render
 
-### Algorithm Visualizer
-Interactive web app that visualizes sorting and graph algorithms step by step.
+## Selected Projects
 
-**Tech:** JavaScript, HTML, CSS  
-**Features:** Sorting animation, pause/resume controls, algorithm explanations
+### Mapologist | AI-Assisted Knowledge Exploration
 
-### SafeStart Canada
-A platform designed to help newcomers in Canada find important resources such as housing, banking, healthcare, and settlement support.
+An interactive knowledge exploration system developed as part of my undergraduate capstone research at York University.
 
-**Tech:** TypeScript, React
+- Developed a concept-map interface with global and local navigation.
+- Incorporated AI-assisted exploration, source-linked notes, and personal annotations.
+- Conducted formative user studies to evaluate usability and inform system design.
 
-### Agent Arena
-A hackathon-style platform where AI agents compete, submit solutions, and are evaluated by AI judges.
+**Focus:** Human-Computer Interaction, AI, User Research
 
-**Tech:** React, AI APIs, Full-stack development
+### Befriending the Bot | Conversational AI Research
 
-## 📫 Connect with me
+An international research collaboration exploring how conversational AI interactions influence learning experiences.
 
+- Developed a Python FastAPI backend integrated with OpenAI APIs and Typebot.
+- Implemented experimental conditions, conversation management, and data collection.
+- Supported multilingual conversational workflows in English and German.
+
+**Technologies:** Python, FastAPI, OpenAI API, Typebot, SQLite, Render
+
+### Hermes EV | E-Commerce Platform
+
+A full-stack web application supporting electric vehicle browsing, customization, and purchasing.
+
+- Implemented and tested server-side REST API functionality.
+- Worked on vehicle customization, loan calculations, and test-drive scheduling.
+- Contributed to backend integration and database development.
+
+**Technologies:** Java, Jakarta Servlets, JSP, PostgreSQL, Docker
+
+### Pediatric Appendicitis | Data Mining
+
+A data analysis project examining clinical indicators associated with pediatric appendicitis.
+
+- Cleaned and processed clinical datasets.
+- Applied Principal Component Analysis (PCA) for dimensionality reduction.
+- Developed visualizations to explore patterns and relationships in the data.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn
+
+## Research Interests
+
+Software Engineering · Artificial Intelligence · Machine Learning · Human-Computer Interaction · Conversational AI
+
+## Connect
+
+- **LinkedIn:** www.linkedin.com/in/avin-beheshtipour
+- **Email:** avin.beheshtipour@gmail.com
